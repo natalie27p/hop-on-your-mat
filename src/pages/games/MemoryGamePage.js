@@ -1,8 +1,8 @@
 import { Fragment } from "react";
 import { useParams } from "react-router-dom";
-// import { useFetch } from "../../hooks/useFetch";
+import { useFetch } from "../../hooks/useFetch";
 
-// import MemoryGame from "../components/games/memoryGame/MemoryGame";
+import MemoryGame from "../../components/games/memoryGame/MemoryGame";
 
 // const cardImages = [
 //   { src: "/img/adhoMukhaSvanasana.png", matched: false },
@@ -16,16 +16,15 @@ import { useParams } from "react-router-dom";
 const MemoryGamePage = (props) => {
   const { gameId } = useParams();
   const url = "http://localhost:3000/games/" + gameId;
-  // const { data: game, isPending, error } = useFetch(url);
+  const { data: game, isPending, error } = useFetch(url);
 
   return (
     <Fragment>
-      <h1>Pose List</h1>
-      {/* {isPending && <p>Loading...</p>}
+      {isPending && <p>Loading...</p>}
       {error && <p>{error}</p>}
       {game && (
         <MemoryGame key={game.id} name={game.name} cards={game.images} />
-      )} */}
+      )}
     </Fragment>
 
     // <div className="MemoryGame">

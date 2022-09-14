@@ -1,12 +1,12 @@
 import { Fragment } from "react";
 
-// import GameList from "../components/games/GameList";
+import GameList from "../../components/games/GameList";
 
 const GamesPage = (props) => {
   return (
     <Fragment>
       <h1>Game List</h1>
-      {/* <GameList /> */}
+      <GameList />
     </Fragment>
     // <Fragment>
     //   <h1>Choose a game:)</h1>
