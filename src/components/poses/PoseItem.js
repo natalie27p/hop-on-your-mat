@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-// import ListItem from "../UI/ListItem";
+import ListItem from "../UI/ListItem";
 import classes from "./PoseItem.module.css";
 
 const PoseItem = (props) => {
