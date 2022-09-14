@@ -79,7 +79,7 @@ const MemoryGame = (props) => {
 
   return (
     <div className="MemoryGame">
-      <h1>props.name</h1>
+      <h1>{props.name}</h1>
       <button onClick={shuffleCards}>New Game</button>
 
       <div className="card-grid">

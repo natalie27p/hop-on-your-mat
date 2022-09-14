@@ -17,6 +17,9 @@ const SingleCard = ({ card, handleChoice, flipped, disabled }) => {
           onClick={handleClick}
           alt="cover"
         />
+        {/* {console.log(card)}
+        {console.log(`disabled: ${disabled}`)}
+        {console.log(`flipped: ${flipped}`)} */}
       </div>
     </div>
   );

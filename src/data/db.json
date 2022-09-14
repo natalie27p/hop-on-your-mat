@@ -100,15 +100,7 @@
       "images": [
         {
           "id": "0",
-          "src": "Adho Mukha Svanasana"
-        },
-        {
-          "id": "0",
           "src": "/img/adhoMukhaSvanasana.png"
-        },
-        {
-          "id": "1",
-          "src": "Sukhasana"
         },
         {
           "id": "1",
@@ -116,15 +108,7 @@
         },
         {
           "id": "2",
-          "src": "Vrksasana"
-        },
-        {
-          "id": "2",
           "src": "/img/vrksasana.png"
-        },
-        {
-          "id": "3",
-          "src": "Chakravakasana"
         },
         {
           "id": "3",
@@ -132,23 +116,11 @@
         },
         {
           "id": "4",
-          "src": "Tadasana"
-        },
-        {
-          "id": "4",
           "src": "/img/tadasana.png"
         },
         {
           "id": "5",
-          "src": "Uttanasana"
-        },
-        {
-          "id": "5",
           "src": "/img/uttanasana.png"
-        },
-        {
-          "id": "6",
-          "src": "Malasana"
         },
         {
           "id": "6",
