@@ -1,4 +1,4 @@
-# Hop-on-Yoga
+# Hop-on-your-Mat
 
 Welcome to your Yoga journey!
 In this website you can find information and explanations about the different yoga poses,
