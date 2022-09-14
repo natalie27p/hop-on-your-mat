@@ -1,0 +1,34 @@
+.pose {
+  background-color: #f0e68c;
+  color: #14676d;
+  border-radius: 8px;
+  padding: 3rem;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.pose h1 {
+  font-style: italic;
+  font-size: 2.5rem;
+}
+
+.pose h2 {
+  font-size: 1.4rem;
+}
+
+.pose p {
+  font-size: 1.2rem;
+}
+
+.pose img {
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+  padding: 8px;
+}
+
+.pose figcaption {
+  font-size: 1rem;
+  color: teal;
+}

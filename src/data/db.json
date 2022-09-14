@@ -1,0 +1,223 @@
+{
+  "poses": [
+    {
+      "id": "0",
+      "nameSanskrit": "Adho Mukha Svanasana",
+      "nameEnglish": "Downward Facing Dog",
+      "description": "Downward Facing Dog is perhaps the most recognized posture in Yoga, and one of my personal favorites. The pose is a forward bend named after the resemblance to a dog stretching out with its hind legs extending upward and both head and forelegs facing downward.",
+      "instructions": "1) Come to your hands and knees with your wrists underneath the shoulders and your knees underneath the hips. 2) Curl your toes under and push back through your hands to lift your hips and straighten your legs. 3) Spread your fingers and ground down from the forearms into the fingertips. 4) Outwardly rotate your upper arms to broaden the collarbones. 5) Let your head hang and move your shoulder blades away from your ears towards your hips. 6) Engage your quadriceps strongly to take the burden of your body's weight off your arms. This action goes a long way toward making this a resting pose. 7) Rotate your thighs inward, keep your tail high, and sink your heels towards the floor. 8) Check that the distance between your hands and feet is correct by coming forward to a plank position. The distance between the hands and feet should be the same in these two poses. Do not step the feet toward the hands in Down Dog in order the get the heels to the floor. 9) Exhale and bend your knees to release and come back to your hands and knees",
+      "benefits": "Stretches the hamstrings and calves, and it strengthens the arms and legs. The pose also helps increase the strength of the external oblique abdominal muscles. As a mild inversion, Downward Dog acts in reverse of the usual forces on your spine and brings more blood flow to your brain. When incorporated into a weekly yoga practice, it may even help relieve chronic back pain.",
+      "imgSource": "/img/adhoMukhaSvanasana.png"
+    },
+    {
+      "id": "1",
+      "nameSanskrit": "Sukhasana",
+      "nameEnglish": "Easy Pose",
+      "description": "Easy Pose is the name for any comfortable, cross-legged, seated position, and one of the most basic poses used in yoga practice and meditation. In this case, however, easy doesn't mean the opposite of difficult. It means 'with ease'. So, sitting in Sukhasana is actually sitting any way you can with ease",
+      "instructions": "1) Come into a seated position with the buttocks on the floor, then cross the legs, placing the feet directly below the knees. 2) Press the hip bones down into the floor and reach the crown of the head up to lengthen the spine. 3) Relax the face, jaw, and belly. 4) Breathe deeply through the nose down into the belly.",
+      "benefits": "Easy Pose can be calming and relaxing—if you're able to sit in it comfortably. It improves postural awareness, creates a foundation for meditation practices, and can help manage stress.",
+      "imgSource": "/img/sukhasana.png"
+    },
+    {
+      "id": "2",
+      "nameSanskrit": "Vrksasana",
+      "nameEnglish": "Tree Pose",
+      "description": "This yoga pose involves tucking one leg into the other while your hands are in a prayer position above your head, resembling a tree. This pose can improve balance, stability, and strengthen your core.",
+      "instructions": "",
+      "benefits": "",
+      "imgSource": "/img/vrksasana.png"
+    },
+    {
+      "id": "3",
+      "nameSanskrit": "Chakravakasana",
+      "nameEnglish": "Cat-Cow Stretch",
+      "description": "Keep your hands shoulder-width apart and your knees directly below your hips. Inhale deeply while curving your lower back and bringing your head up, tilting your pelvis up like a cow. Exhale deeply and bring your abdomen in, arching your spine and bringing your head and pelvis down like a cat. Repeat several times.",
+      "instructions": "",
+      "benefits": "",
+      "imgSource": "/img/chakravakasana.png"
+    },
+    {
+      "id": "4",
+      "nameSanskrit": "Tadasana",
+      "nameEnglish": "Mountain Pose",
+      "description": "Mountain pose is a simple standing pose with the feet together and the body tall and strong, standing vertically upright. It is the starting pose for all other standing postures in yoga and can also be practiced on its own. It is considered to be the most basic posture of all yoga postures.",
+      "instructions": "",
+      "benefits": "",
+      "imgSource": "/img/tadasana.png"
+    },
+    {
+      "id": "5",
+      "nameSanskrit": "Uttanasana",
+      "nameEnglish": "Standing Forward Bend",
+      "description": "Standing forward bend is a yoga postured designed to provide a strong stretch for the back of the body. It is also an inversion because the heart is higher than the head when the body is in this pose. The feet are placed together flat on the ground, the legs are straight and the body hinges forward from the hips.",
+      "instructions": "",
+      "benefits": "",
+      "imgSource": "/img/uttanasana.png"
+    },
+    {
+      "id": "6",
+      "nameSanskrit": "Malasana",
+      "nameEnglish": "Garland Pose",
+      "description": "The garland pose is a yoga posture that stretches the thighs, groin, legs, and ankles. Garland pose is a hip-opener for which you lower into a squat and lean your torso forward between your thighs, using your elbows to gently push and widen the hips and pelvic area.",
+      "instructions": "",
+      "benefits": "",
+      "imgSource": "/img/malasana.png"
+    },
+    {
+      "id": "7",
+      "nameSanskrit": "Setu Bandha Sarvangasana",
+      "nameEnglish": "Bridge Pose",
+      "description": "Bridge pose is a reclined backbend and chest-opening yoga pose. This asana (pose) for beginners involves lifting the hips and sternum while pressing the arms down into the mat to create a bridge-like effect with the body for a maximum stretch.",
+      "instructions": "1) Lie on your back and bend your knees. 2) Adjust your feet and arms. 3) Lift your hips. 4) Tuck your chin. 5) Interlace your hands behind your back. 6) Relax your glutes and engage your inner thighs. 7) Lift your hips higher. 8) Slowly release.",
+      "benefits": "Stretches the chest, neck, spine, and hips. Strengthens the back, buttocks, and hamstrings. Improves circulation of blood. Helps alleviate stress and mild depression",
+      "imgSource": "/img/setuBandhaSarvangasana.png"
+    },
+    {
+      "id": "8",
+      "nameSanskrit": "Dandasana",
+      "nameEnglish": "Staff Pose",
+      "description": "Staff pose is the foundational posture for many seated yoga poses. It is a seated posture with the legs outstretched in front of the body and the spine long and vertically aligned. The palms touch the floor beside the hips (or the fingertips can be used if the palms do not reach).",
+      "instructions": "",
+      "benefits": "",
+      "imgSource": "/img/dandasana.png"
+    },
+    {
+      "id": "9",
+      "nameSanskrit": "Baddha Konasana",
+      "nameEnglish": "Cobblers Pose",
+      "description": "Begin seated in Staff Pose (Dandasana) with your legs outstretched straight in front of you. Bend your knees and bring the soles of your feet together as you let your knees fall out to either side. Draw your feet in as close to your body as is comfortable. Back off if you feel any pain in your knees.",
+      "instructions": "",
+      "benefits": "",
+      "imgSource": "/img/baddhaKonasana.png"
+    }
+  ],
+
+  // "images": [
+  //   {
+  //     "id": "0",
+  //     "src": "Adho Mukha Svanasana"
+  //   },
+  //   {
+  //     "id": "0",
+  //     "src": "/img/adhoMukhaSvanasana.png"
+  //   },
+  //   {
+  //     "id": "1",
+  //     "src": "Sukhasana"
+  //   },
+  //   {
+  //     "id": "1",
+  //     "src": "/img/sukhasana.png"
+  //   },
+  //   {
+  //     "id": "2",
+  //     "src": "Vrksasana"
+  //   },
+  //   {
+  //     "id": "2",
+  //     "src": "/img/vrksasana.png"
+  //   },
+  //   {
+  //     "id": "3",
+  //     "src": "Chakravakasana"
+  //   },
+  //   {
+  //     "id": "3",
+  //     "src": "/img/chakravakasana.png"
+  //   },
+  //   {
+  //     "id": "4",
+  //     "src": "Tadasana"
+  //   },
+  //   {
+  //     "id": "4",
+  //     "src": "/img/tadasana.png"
+  //   },
+  //   {
+  //     "id": "5",
+  //     "src": "Uttanasana"
+  //   },
+  //   {
+  //     "id": "5",
+  //     "src": "/img/uttanasana.png"
+  //   },
+  //   {
+  //     "id": "6",
+  //     "src": "Malasana"
+  //   },
+  //   {
+  //     "id": "6",
+  //     "src": "/img/malasana.png"
+  //   }
+  // ]
+
+  "games": [
+    {
+      "id": "0",
+      "name": "Memory Game :)",
+      "description": "Find pairing cards - Yoga pose image with its correct sanskrit name",
+      "images": [
+        {
+          "id": "0",
+          "src": "Adho Mukha Svanasana"
+        },
+        {
+          "id": "0",
+          "src": "/img/adhoMukhaSvanasana.png"
+        },
+        {
+          "id": "1",
+          "src": "Sukhasana"
+        },
+        {
+          "id": "1",
+          "src": "/img/sukhasana.png"
+        },
+        {
+          "id": "2",
+          "src": "Vrksasana"
+        },
+        {
+          "id": "2",
+          "src": "/img/vrksasana.png"
+        },
+        {
+          "id": "3",
+          "src": "Chakravakasana"
+        },
+        {
+          "id": "3",
+          "src": "/img/chakravakasana.png"
+        },
+        {
+          "id": "4",
+          "src": "Tadasana"
+        },
+        {
+          "id": "4",
+          "src": "/img/tadasana.png"
+        },
+        {
+          "id": "5",
+          "src": "Uttanasana"
+        },
+        {
+          "id": "5",
+          "src": "/img/uttanasana.png"
+        },
+        {
+          "id": "6",
+          "src": "Malasana"
+        },
+        {
+          "id": "6",
+          "src": "/img/malasana.png"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Coming soon :)"
+    }
+  ]
+}

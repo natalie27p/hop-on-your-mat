@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import { useParams } from "react-router-dom";
-// import { useFetch } from "../hooks/useFetch";
+// import { useFetch } from "../../hooks/useFetch";
 
 // import MemoryGame from "../components/games/memoryGame/MemoryGame";
 
