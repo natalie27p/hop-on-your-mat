@@ -1,24 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import { Route, Switch, Redirect } from "react-router-dom";
+
+import Layout from "./components/layout/Layout";
+import HomePage from "./pages/HomePage";
+import PosesPage from "./pages/poses/PosesPage";
+import PoseDetailPage from "./pages/poses/PoseDetailPage";
+import GamesPage from "./pages/games/GamesPage";
+import MemoryGamePage from "./pages/games/MemoryGamePage";
+import NotFoundPage from "./pages/NotFoundPage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Layout>
+      <Switch>
+        <Route path="/" exact>
+          <Redirect to="/home" />
+        </Route>
+        <Route path="/home">
+          <HomePage />
+        </Route>
+        <Route path="/poses" exact>
+          <PosesPage />
+        </Route>
+        <Route path="/poses/:poseId">
+          <PoseDetailPage />
+        </Route>
+        <Route path="/games" exact>
+          <GamesPage />
+        </Route>
+        <Route path="/games/:gameId">
+          <MemoryGamePage />
+        </Route>
+        <Route path="*">
+          <NotFoundPage />
+        </Route>
+      </Switch>
+    </Layout>
   );
 }
 
