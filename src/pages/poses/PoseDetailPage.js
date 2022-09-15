@@ -11,7 +11,7 @@ const PoseDetailPage = (props) => {
 
   return (
     <Fragment>
-      <h1>Pose List</h1>
+      <h1>Pose Detail</h1>
       {isPending && <p>Loading...</p>}
       {error && <p>{error}</p>}
       {pose && (
